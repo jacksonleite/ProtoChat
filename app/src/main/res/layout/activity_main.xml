@@ -42,8 +42,7 @@
                 android:layout_weight="6"
                 android:background="@drawable/rounded_corner"
                 android:padding="16dp"
-                android:text="Um carro modelo Uno de cor vermelha e placas JWZ-4053 acabou de ser
-                roubado aqui na Avenida André Araújo bem em frente à TV Acrítica."
+                android:text="Um carro modelo Uno de cor vermelha e placas JWZ-4053 acabou de ser roubado aqui na Avenida André Araújo bem em frente à TV Acrítica."
                 android:textColor="#000" />
 
             <!--
@@ -102,9 +101,7 @@
                 android:layout_weight="6"
                 android:background="@drawable/rounded_corner1"
                 android:padding="16dp"
-                android:text="O carro foi abordado por dois bandidos armados com revólveres que
-                pareciam ser de calibre 38. Anunciaram o assalto, ameaçaram o motorista e o
-                passageiro e levaram o carro."
+                android:text="O carro foi abordado por dois bandidos armados com revólveres que pareciam ser de calibre 38. Anunciaram o assalto, ameaçaram o motorista e o passageiro e levaram o carro."
                 android:textColor="#000" />
 
         </LinearLayout>
@@ -125,9 +122,7 @@
                 android:layout_weight="6"
                 android:background="@drawable/rounded_corner"
                 android:padding="16dp"
-                android:text="Depois de terem feito a ameaça, expulsaram os proprietários do veículo
-                e fugiram em direção à Bola do Coroado em alta velocidade. O veículo não possui
-                rastreamento por GPS nem seguro."
+                android:text="Depois de terem feito a ameaça, expulsaram os proprietários do veículo e fugiram em direção à Bola do Coroado em alta velocidade. O veículo não possui rastreamento por GPS nem seguro."
                 android:textColor="#000" />
 
             <!--
@@ -186,8 +181,7 @@
                 android:layout_weight="6"
                 android:background="@drawable/rounded_corner1"
                 android:padding="16dp"
-                android:text="Os proprietários do veículo estão ainda no local, mas não conseguiram
-                entrar em contato com a polícia pelo 190. Estou enviando em anexo uma foto do local do roubo."
+                android:text="Os proprietários do veículo estão ainda no local, mas não conseguiram entrar em contato com a polícia pelo 190. Estou enviando em anexo uma foto do local do roubo."
                 android:textColor="#000" />
         </LinearLayout>
     </RelativeLayout>
